@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yisus</h1>
+<h1 align="center">Hi 👋, I'm Yisus🐧</h1>
 <div id ="header" align="center">
 <img src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" style="width: 25rem; height: 25rem">
 </div>
-<h3 align="center">A backend guy that just try to sleep (i do not have time to do it).</h3>
+<h3 align="center">A backend guy that just try to sleep (i do not have time to do it)🐧.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesuseduardomartinezreyescampus1&label=Profile%20views&color=0e75b6&style=flat" alt="jesuseduardomartinezreyescampus1" /> </p>
 
@@ -16,11 +16,11 @@
 
 - 🤝 I’m looking for help with **NoSQL data bases**
 
-- 💬 Ask me about **backend logic, javascript, db and SQL**
+- 💬 Ask me about **Linux, customize Linux environments(in Parrot, ARCHLinux, Ubuntu), backend logic, javascript, db and SQL**
 
 - 📫 How to reach me **jrey22k@gmail.com**
 
-- ⚡ Fun fact **I love GNU/Linux and girls with glasses**
+- ⚡ Fun fact **I love 🐧GNU/Linux🐧 and girls with glasses**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
