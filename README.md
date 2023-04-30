@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **jrey22k@gmail.com**
 
-- ⚡ Fun fact **I love 🐧GNU/Linux🐧 and girls with glasses**
+- ⚡ Fun fact **I love 🐧GNU/Linux🐧 (no one is forcing me to say it, i swear😰)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
