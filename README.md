@@ -1,11 +1,11 @@
 <h1 align="center">Wsp, I'm Yisus</h1>
 <div id ="header" align="center">
 <img src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" style="width: 25rem; height: 15rem">
+  <h3 align="center">I'm going to install Linux in ur device :3</h3>
 </div>
-<h3 align="center">I'm going to install Linux in ur device :3</h3>
 
 <div align="center">
-  <h1 stlye="font-weight:bolder;">🏆 Trophies Section 🏆</h1>
+  <h1 stlye="font-weight:bolder;">🏆 My Trophies 🏆</h1>
    <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
 
 ![](https://github-profile-trophy.vercel.app/?username=asynkDF&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
