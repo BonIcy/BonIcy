@@ -1,17 +1,11 @@
 <h1 align="center">Wsp, I'm Yisus</h1>
 <div id ="header" align="center">
 <img src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" style="width: 25rem; height: 15rem">
-  <p align="center"I am a guy who is passionate about programming, I have been doing this for a short time but I would like to expand my knowledge and aim for innovation through new technologies. Some technologies/tools that I enjoy using include ReactJS, Jquery, JavaScript, APIs, CRUDS and MySQL.</p>
 </div>
-
 <div align="center">
-  <h1 stlye="font-weight:bolder;">🏆 My Trophies 🏆</h1>
-   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-
-![](https://github-profile-trophy.vercel.app/?username=asynkDF&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
- 
- </div>  
- 
+  <h3>👉🏼About me👈🏼</h3>
+  <p> I am a guy who is passionate about programming, I have been doing this for a short time but I would like to expand my knowledge and aim for innovation through    new technologies. Some technologies/tools that I enjoy using include ReactJS, Jquery, JavaScript, APIs, CRUDS and MySQL.</p>
+  
 - 🔭 I’m currently working on **Campus projects & Hunters**
 
 - 🌱 I’m currently learning **APIs, frameworks and db**
@@ -25,6 +19,15 @@
 - 📫 How to reach me **jrey22k@gmail.com**
 
 - ⚡ Fun fact **I dont wanna be frontend but my favorite language is Javascript 😰.**
+</div>
+  
+<div align="center">
+  <h1 stlye="font-weight:bolder;">🏆 My Trophies 🏆</h1>
+   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+
+![](https://github-profile-trophy.vercel.app/?username=asynkDF&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+ 
+ </div>  
 
 [![](https://visitcount.itsvg.in/api?id=asynkDF&icon=0&color=8)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asynkdf&label=Profile%20views&color=031a28&style=flat" alt="asynkdf" /> </p>
