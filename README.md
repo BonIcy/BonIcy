@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jrey22k@gmail.com**
 
-- ⚡ Fun fact **I love 🐧GNU/Linux🐧 (no one is forcing me to say it, i swear😰)**
+- ⚡ Fun fact **I dont wanna be frontend but my favorite language is Javascript 😰.**
 
 
 ## 🌐 Socials:
