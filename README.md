@@ -1,6 +1,6 @@
 <h1 align="center">Wsp, I'm Yisus🐧</h1>
 <div id ="header" align="center">
-<img src="[https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif](https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif)" style="width: 25rem; height: 15rem">
+<img src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" style="width: 25rem; height: 15rem">
 </div>
 <h3 align="center">Linux is consuming me🐧.</h3>
 
