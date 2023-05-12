@@ -8,7 +8,7 @@
   
 - 🔭 I’m currently working on **Campus projects & Hunters**
 
-- 🌱 I’m currently learning **APIs, frameworks and db**
+- 🌱 I’m currently learning **Php, frameworks and db**
 
 - 👯 I’m looking to collaborate on **Meta or Microsoft**
 
