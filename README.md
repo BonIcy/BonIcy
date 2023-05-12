@@ -4,7 +4,7 @@
 </div>
 <div>
   <h3 align="center">👉🏼About me👈🏼</h3>
-  <p align="justify"> I am a guy who is passionate about programming, I have been doing this for a short time but I would like to expand my knowledge and aim for innovation through    new technologies. Some technologies/tools that I enjoy using include ReactJS, Jquery, JavaScript, APIs, CRUDS and MySQL.</p>
+  <p style="text-align: justify;"> I am a guy who is passionate about programming, I have been doing this for a short time but I would like to expand my knowledge and aim for innovation through    new technologies. Some technologies/tools that I enjoy using include ReactJS, Jquery, JavaScript, APIs, CRUDS and MySQL.</p>
   
 - 🔭 I’m currently working on **Campus projects & Hunters**
 
