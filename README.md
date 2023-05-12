@@ -36,9 +36,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asynkDF&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asynkDF&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🖨️ Technologies & 🚍 Communication
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
@@ -315,4 +312,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=asynkDF&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
