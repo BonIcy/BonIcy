@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I dont wanna be frontend but my favorite language is Javascript 😰.**
 
+[![](https://visitcount.itsvg.in/api?id=asynkDF&icon=0&color=8)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asynkdf&label=Profile%20views&color=0e75b6&style=flat" alt="asynkdf" /> </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ECgE8jBq) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/xaemod) 
@@ -39,6 +41,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=asynkDF&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=asynkDF&icon=0&color=8)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
