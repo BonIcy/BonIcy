@@ -1,8 +1,8 @@
-<h1 align="center">Wsp, I'm Yisus🐧</h1>
+<h1 align="center">Wsp, I'm Yisus</h1>
 <div id ="header" align="center">
 <img src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" style="width: 25rem; height: 15rem">
 </div>
-<h3 align="center">Linux is consuming me🐧.</h3>
+<h3 align="center">I'm going to install Linux in ur device :3</h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asynkDF&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
