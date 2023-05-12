@@ -1,7 +1,7 @@
 <h1 align="center">Wsp, I'm Yisus</h1>
 <div id ="header" align="center">
 <img src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" style="width: 25rem; height: 15rem">
-  <h4 align="center">I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.</h4>
+  <p align="center"I am a guy who is passionate about programming, I have been doing this for a short time but I would like to expand my knowledge and aim for innovation through new technologies. Some technologies/tools that I enjoy using include ReactJS, Jquery, JavaScript, APIs, CRUDS and MySQL.</p>
 </div>
 
 <div align="center">
