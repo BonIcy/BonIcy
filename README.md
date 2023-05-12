@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" style="width: 25rem; height: 15rem">
 </div>
 <div>
-  <h3 align="center">👉🏼About me👈🏼</h3>
+  <h2 align="center">👉🏼About me👈🏼</h2>
   <p style="text-align: justify;"> I am a guy who is passionate about programming, I have been doing this for a short time but I would like to expand my knowledge and aim for innovation through    new technologies. Some technologies/tools that I enjoy using include ReactJS, Jquery, JavaScript, APIs, CRUDS and MySQL.</p>
   
 - 🔭 I’m currently working on **Campus projects & Hunters**
