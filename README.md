@@ -4,7 +4,9 @@
 </div>
 <h3 align="center">Linux is consuming me🐧.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asynkdf&label=Profile%20views&color=0e75b6&style=flat" alt="asynkdf" /> </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=asynkDF&label=Profile%20Views&color=12&icon=7&pretty=true" />
+</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asynkdf" alt="asynkdf" /></a> </p>
 
