@@ -42,11 +42,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=asynkDF&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-# 🖨️ Technologies Icons
 
-_All product names, logos, and brandsare property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement._
 
-### 🚍 Communication
+### 🖨️ Technologies & 🚍 Communication
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
