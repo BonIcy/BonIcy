@@ -1,7 +1,7 @@
 <h1 align="center">Wsp, I'm Yisus</h1>
 <div id ="header" align="center">
 <img src="https://media.giphy.com/media/NaxKt9aSzAspO/giphy.gif" style="width: 25rem; height: 15rem">
-  <h3 align="center">I'm going to install Linux in ur device :3</h3>
+  <h4 align="center">I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.</h4>
 </div>
 
 <div align="center">
