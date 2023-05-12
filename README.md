@@ -4,17 +4,15 @@
 </div>
 <h3 align="center">I'm going to install Linux in ur device :3</h3>
 
-
-
-
 <div align="center">
-   
+   <p>My GitHub Trophies</p>
+   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+
 
 ## 🏆 GitHub Trophies
-   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
 ![](https://github-profile-trophy.vercel.app/?username=asynkDF&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
  
- </div> 
+ </div>  
 - 🔭 I’m currently working on **Campus projects & Hunters**
 
 - 🌱 I’m currently learning **APIs, frameworks and db**
