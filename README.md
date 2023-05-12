@@ -4,9 +4,8 @@
 </div>
 <h3 align="center">Linux is consuming me🐧.</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asynkdf" alt="asynkdf" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=asynkDF&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 - 🔭 I’m currently working on **Campus projects & Hunters**
 
@@ -32,9 +31,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=asynkDF&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asynkDF&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asynkDF&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asynkDF&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
