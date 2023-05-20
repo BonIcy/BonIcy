@@ -71,6 +71,22 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asynkDF&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asynkDF&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<details>
+<p align="center">
+  <a href="https://github.com/asynkdf">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asynkdf&theme=transparent" />
+  </a>
+  <a href="https://github.com/asynkdf">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asynkdf&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/asynkdf">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asynkdf&theme=transparent" />
+  </a>
+  <a href="https://github.com/asynkdf">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asynkdf&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
 ### 🖨️ Technologies & 🚍 Communication
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
