@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jrey22k@gmail.com**
 
-- ⚡ Fun fact **I dont wanna be frontend but my favorite language is Javascript 😰.**
+- ⚡ Fun fact **I destroyed my GNU/Linux system by writing a script wrong😭.**
 </div>
   
 <div align="center">
