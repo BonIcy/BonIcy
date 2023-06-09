@@ -77,9 +77,10 @@
   <a href="https://github.com/asynkdf">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asynkdf&theme=transparent" />
   </a>
+</p>
 -   Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asynkdf)
 
 
 
