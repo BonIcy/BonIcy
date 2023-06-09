@@ -77,8 +77,9 @@
   <a href="https://github.com/asynkdf">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asynkdf&theme=transparent" />
   </a>
-  <a href="https://github.com/asynkdf">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asynkdf&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  <
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asynkdf)
+
   </a>
 </p>
 
