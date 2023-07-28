@@ -1,6 +1,6 @@
 <h1 align="center">Wsp, I'm Yisus</h1>
 <div id ="header" align="center">
-<img src="https://giphy.com/gifs/tI4a3hrDUXRw9RYCq2" style="width: 25rem; height: 15rem">
+<img src="[https://giphy.com/gifs/tI4a3hrDUXRw9RYCq2](https://giphy.com/gifs/tI4a3hrDUXRw9RYCq2)" style="width: 25rem; height: 15rem">
 </div>
 <div>
   <h2 align="center">👉🏼About me👈🏼</h2>
