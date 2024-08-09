@@ -4,21 +4,19 @@
 </div>
 <div>
   <h2 align="center">👉🏼About me👈🏼</h2>
-  <p style="text-align: justify;"> I am a guy who is passionate about programming, I have been doing this for a short time but I would like to expand my knowledge and aim for innovation through new technologies. Some technologies/tools that I enjoy using include Python, NodeJs, React, Jquery, JavaScript, WordPress, mongoDB, MySQL,</p>
+  <p style="text-align: justify;"> I am a guy passionate about programming, I have been doing this for a short time but I would like to expand my knowledge and aim for innovation through new technologies. Some technologies/tools that I enjoy using include Python, NodeJs, React, Jquery, JavaScript, php, mongoDB, MySQL,</p>
   
-- 🔭 I’m currently working on **Campus projects & Hunters**
+- 🔭 I’m currently working on **University projects and social coworking**
 
-- 🌱 I’m currently learning **Javascript frameworks**
+- 🌱 I’m currently learning **Javascript frameworks and Java**
 
 - 👯 I’m looking to collaborate on **Meta or Microsoft**
 
-- 🤝 I’m looking for help with **Connect python with Django for webservices**
+- 💬 Ask me about **Linux (Ubuntu 18.04LTS & 20.04LTS),backend logic, nodejs, react, mongodb, mysql, web design**
 
-- 💬 Ask me about **Linux (Parrot, ARCHLinux, Ubuntu),backend logic, javascript and about cats**
+- 📫 How to reach me **bonicyy@gmail.com**
 
-- 📫 How to reach me **jrey22k@gmail.com**
-
-- ⚡ Fun fact **I destroyed my GNU/Linux system by writing a wrong script (playing with nautilus)😭.**
+- ⚡ Fun fact **I destroyed my GNU/Linux system by writing a wrong script (testing nautilus)😭.**
 </div>
   
 <div align="center">
@@ -29,35 +27,7 @@
  
  </div>  
 
-<div align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-  
-</div>
 
-[![](https://visitcount.itsvg.in/api?id=BonIcy&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BonIcy&label=Profile%20views&color=031a28&style=flat" alt="BonIcy"/></p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ECgE8jBq) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/xaemod) [![Linkedin](https://img.shields.io/badge/Linkedin-%237289DA.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BonIcy/)
@@ -76,13 +46,12 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BonIcy&theme=transparent" />
   </a>
 </p>
--   Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonIcy)
+
+<!--  -   Top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonIcy)-->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BonIcy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
